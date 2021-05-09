@@ -19,6 +19,7 @@ Using dataset 201908-citibike-tripdata.csv provided charts/graphs as follows:
 
 ![CheckoutTimesByUsers](Resources/CheckoutTimesByUsers.png)
 
+
 Chart shows the actual trip duration is generally short. The majority of trips is less than
 twenty minutes.
 
@@ -30,7 +31,7 @@ female riders, as with males, the trips are less than twenty minutes. Possible c
 is using bikes to commute to/from work or neighborhood trips.
 
 
-![TripsByWeekdayPerHour](Resources/TripsByWeekdayPerHour.png)
+![TripsByWeekdayByHour](Resources/TripsByWeekdayByHour.png)
 
 The heat map shows the most trips per Weekday per Hour is Thursday between 5-6 PM 
 with Monday & Tuesday also having high ridership. Activity during the weekdays between 
@@ -56,14 +57,14 @@ pay a monthly or weekly fee and not have to pay for each ride. Being a subscribe
  town. It's obvious that males are more often subscribers!
 
 
-![ModuleGenderBreakdown](Resources/ModuleGenderBreakdown.png)
+![GenderBreakdown](Resources/GenderBreakdown.png)
 
 The Gender Breakdown is based on the total number of trips/rides from the dataset. The pie chart isn't
 very detailed but shows MALEs using Citi Bike the most. FEMALEs account for a quarter of the total rides 
 but much less than MALEs.
 
 
-![ModuleAugustPeakHours](Resources/ModuleAugustPeakHours.png)
+![AugustPeakHours](Resources/AugustPeakHours.png)
 
 During the summer months, the days are longer and people are outside more often. The bar chart 
 reflects the busiest ride time to be at 5 PM (Hour 17). The entire day from 8 AM (Hour 8) until 7 PM
@@ -93,7 +94,7 @@ additional volume would impact bike maintenance and relocating bikes to high vol
 
 # Link to Tableau Public
 
-[link to dashboard](Resources/https://public.tableau.com/profile/natalie.carr6742#!/vizhome/NYC_CitiBike_Challenge_16205091240260)
+[link to dashboard](https://public.tableau.com/profile/natalie.carr6742#!/vizhome/NYC_CitiBike_Challenge_16205091240260)
 
 
 
