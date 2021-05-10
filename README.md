@@ -94,7 +94,7 @@ additional volume would impact bike maintenance and relocating bikes to high vol
 
 # Link to Tableau Public
 
-[link to dashboard](https://public.tableau.com/profile/natalie.carr6742#!/vizhome/NYC_CitiBike_Challenge_16205091240260)
+[link to dashboard](https://public.tableau.com/profile/natalie.carr6742#!/vizhome/NYC_CitiBike_Challenge_16205091240260/CheckoutTimesforUsers)
 
 
 
